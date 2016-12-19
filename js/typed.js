@@ -22,6 +22,15 @@
 
 
 
+// ==============================================================================
+// SPOKE NOTE: This file has been edited from the original. Please look at the
+// history of https://github.com/spokelaw/typed.js/blob/master/js/typed.js to see
+// the changes made. In order to update this file we need to edit the file on
+// this repo (https://github.com/spokelaw/typed.js) and then copy those changes
+// into our vendor file, spoke/typed.js.
+// ==============================================================================
+
+
 
 ! function($) {
 
